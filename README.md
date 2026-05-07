@@ -304,15 +304,15 @@ $ pip install py-dotnet-importer[com]
 
 <pre>
 ┌────────────────────────────────────────────────────────────────┐
-│  ✅ .NET Framework 4.x Assemblies                                │
-│  ✅ .NET 5/6/7/8+ Assemblies                                     │
-│  ✅ Mixed-Mode C++/CLI DLLs                                      │
-│  ✅ COM-Visible .NET DLLs                                        │
-│  ✅ x86 / x64 / AnyCPU Architectures                             │
-│  ✅ GAC-Registered Assemblies                                    │
-│  ✅ Private Assembly Dependencies                                │
-│  ⚠️  Native DLLs (via ctypes, limited)                           │
-│  🚧 VB6 ActiveX DLLs (COM interop, experimental)                   │
+│  ✅ .NET Framework 4.x Assemblies                              │
+│  ✅ .NET 5/6/7/8+ Assemblies                                   │
+│  ✅ Mixed-Mode C++/CLI DLLs                                    │
+│  ✅ COM-Visible .NET DLLs                                      │
+│  ✅ x86 / x64 / AnyCPU Architectures                           │
+│  ✅ GAC-Registered Assemblies                                  │
+│  ✅ Private Assembly Dependencies                              │
+│  ⚠️ Native DLLs (via ctypes, limited)                         │
+│  🚧 VB6 ActiveX DLLs (COM interop, experimental)               │
 └────────────────────────────────────────────────────────────────┘
 </pre>
 

@@ -391,7 +391,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 <div align="center">
 
 <!-- Neon Footer -->
-<pre style="color: #00ff88;">
+<!-- <pre style="color: #00ff88;">
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║     ██████╗ ██╗   ██╗    ██████╗  ██████╗ ████████╗███╗   ██╗███████╗████████╗    ██╗███╗   ██╗██████╗  ██████╗  █████╗ ██████╗ ████████╗███████╗██████╗       ║
@@ -402,13 +402,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 ║     ╚═╝        ╚═╝       ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═══╝╚══════╝   ╚═╝       ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝      ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
-</pre>
+</pre> -->
 
 <!-- Animated Neon Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00d4ff,100:00ff88&height=3&section=footer&reversal=true" width="100%"/>
 
 <!-- Social Badges -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/yourusername/py-dotnet-importer">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -418,7 +418,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</p>
+</p> -->
 
 <!-- Star Request -->
 <pre style="color: #ff00ff;">

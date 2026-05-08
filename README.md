@@ -53,12 +53,12 @@
 └─────────────────────────────────────────────────────────────────┘
 </pre>
 
-</div> -->
+</div>
 
 ---
 
 <!-- NEON TERMINAL INSTALLATION -->
-## <div align="center">⚡ QUICK START</div>
+<!-- <div align="center">⚡ QUICK START</div>
 
 <div align="center">
 
@@ -78,7 +78,7 @@ $ cd py-dotnet-importer
 $ pip install -e .
 ```
 
-</div>
+</div> -->
 
 ---
 

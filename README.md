@@ -43,7 +43,7 @@
   <a href="https://pepy.tech/project/py-dotnet-importer">
     <img src="https://img.shields.io/badge/downloads-10k+-ff00ff?style=for-the-badge&logo=cloudsmith&logoColor=white&labelColor=0d1117" alt="Downloads"/>
   </a> -->
-<!-- </p> --> -->
+<!-- </p> -->
 
 <!-- Tagline -->
 <!-- <pre style="font-size: 16px; color: #00d4ff;">

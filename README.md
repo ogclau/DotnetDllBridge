@@ -14,17 +14,17 @@
 </pre> -->
 
 <!-- ASCII Art Subtitle -->
-<pre style="color: #00ff88;">
+<!-- <pre style="color: #00ff88;">
     ░█▀▀░█▀█░█▄█░▀█▀░█▀▀░█▀█░▀█▀░█▀▀░░░█▀▄░█▀▀░█░█░█▀█░█▀▄░▀█▀░█▀▀░█▀▄
     ░█░░░█░█░█░█░░█░░█░░░█▀█░░█░░█░░░░░█▀▄░█░░░█░█░█░█░█▀▄░░█░░█░░░█▀▄
     ░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░░░▀▀░░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀
 </pre>
 
 <!-- Animated Neon Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,50:00d4ff,100:ff00ff&height=3&section=header&reversal=true" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,50:00d4ff,100:ff00ff&height=3&section=header&reversal=true" width="100%"/> -->
 
 <!-- Badges -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://pypi.org/project/py-dotnet-importer/">
     <img src="https://img.shields.io/pypi/v/py-dotnet-importer?style=for-the-badge&logo=pypi&logoColor=white&color=00ff88&labelColor=0d1117" alt="PyPI Version"/>
   </a>
@@ -42,18 +42,18 @@
   </a>
   <a href="https://pepy.tech/project/py-dotnet-importer">
     <img src="https://img.shields.io/badge/downloads-10k+-ff00ff?style=for-the-badge&logo=cloudsmith&logoColor=white&labelColor=0d1117" alt="Downloads"/>
-  </a>
-</p>
+  </a> -->
+<!-- </p> --> -->
 
 <!-- Tagline -->
-<pre style="font-size: 16px; color: #00d4ff;">
+<!-- <pre style="font-size: 16px; color: #00d4ff;">
 ┌─────────────────────────────────────────────────────────────────┐
 │  ⚡ INTELLIGENT .NET DLL LOADER & WRAPPER GENERATOR FOR PYTHON  │
 │  🔮 Auto-detect · 🔍 Inspect · 🚀 Load · 📝 Generate Wrappers │
 └─────────────────────────────────────────────────────────────────┘
 </pre>
 
-</div>
+</div> -->
 
 ---
 
@@ -421,10 +421,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 </p> -->
 
 <!-- Star Request -->
-<pre style="color: #ff00ff;">
+<!-- <pre style="color: #ff00ff;">
     ╔═══════════════════════════════════════════════════════════════╗
     ║  ⭐ Star this repo if it helped you bridge .NET and Python!   ║
     ╚═══════════════════════════════════════════════════════════════╝
-</pre>
+</pre> -->
 
 </div>
